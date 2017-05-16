@@ -1,6 +1,9 @@
 # simple-todos
 Meteor starter tutorial 
 
+install meteor with 
+curl https://install.meteor.com/ | sh
+
 continue with testing the application https://www.meteor.com/tutorials/blaze/testing
 
 main commands are 
